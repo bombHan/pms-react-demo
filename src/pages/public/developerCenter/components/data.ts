@@ -11,7 +11,7 @@ export const menuTreeData = {
 					"children": [
 						{
 							"documentId": '/public/developerCenter/demo1',
-							"documentName": "demo1",
+							"documentName": "树状菜单模糊搜索高亮",
 							"type": 2,
 							"parentId": '1-1'
 						},
