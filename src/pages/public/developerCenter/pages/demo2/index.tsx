@@ -36,6 +36,7 @@ export default () => {
 				}}
 			/>
 			<div id={'element'} />
+				<a target='_blank' href='https://github.com/bombHan/pms-react-demo/blob/main/src/pages/public/developerCenter/pages/demo2/qrcode.ts'>源码链接</a>
 		</div>
 	);
 };
