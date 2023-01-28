@@ -50,6 +50,12 @@ let routes: any = [
 								title: 'Demo2',
 								component: './public/developerCenter/pages/demo2/index.tsx',
 								isPage: true
+							},
+							{
+								path: '/public/developerCenter/demo3',
+								title: 'Demo3',
+								component: './public/developerCenter/pages/demo3/index.tsx',
+								isPage: true
 							}
 						]
 					},

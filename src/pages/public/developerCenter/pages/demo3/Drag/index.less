@@ -1,0 +1,45 @@
+@component-background: #ccc;
+@padding-md: 10px;
+@border-color-base: #ccc;
+
+.drag {
+  display: flex;
+  height: inherit;
+
+  .drag-left {
+    width: 300px;
+    background: @component-background;
+    overflow: hidden;
+  }
+
+  .drag-right {
+    flex: 1;
+    background: @component-background;
+    overflow-y: auto;
+  }
+
+  .drag-wrapper {
+    padding: 0 @padding-md;
+    position: relative;
+    cursor: move;
+  }
+
+  .drag-line {
+    height: 100%;
+    width: 1px;
+    background: @border-color-base;
+  }
+
+  .drag-fold {
+    width: 0;
+    position: absolute;
+    top: 44%;
+    right: 18px;
+
+    >span {
+      font-size: 48px;
+      cursor: pointer;
+      color: @border-color-base;
+    }
+  }
+}

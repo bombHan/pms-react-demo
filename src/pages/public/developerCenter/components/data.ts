@@ -23,6 +23,12 @@ export const menuTreeData = {
 					"type": 2,
 					"parentId": '1'
 				},
+				{
+					"documentId": '/public/developerCenter/demo3',
+					"documentName": "左右拖拽展开隐藏",
+					"type": 2,
+					"parentId": '1'
+				},
 			],
 			"remark": "1",
 			"documentId": 1,
