@@ -11,11 +11,17 @@ export const menuTreeData = {
 					"children": [
 						{
 							"documentId": '/public/developerCenter/demo1',
-							"documentName": "树状菜单模糊搜索高亮",
+							"documentName": "一些有趣小组件",
 							"type": 2,
 							"parentId": '1-1'
 						},
 					]
+				},
+				{
+					"documentId": '/public/developerCenter/demo2',
+					"documentName": "动态进度条",
+					"type": 2,
+					"parentId": '1'
 				},
 			],
 			"remark": "1",
