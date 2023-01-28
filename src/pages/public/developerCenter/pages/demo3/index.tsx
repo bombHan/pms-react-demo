@@ -5,6 +5,8 @@ export default () => {
 	function onSuccess() { }
 	return (
 		<div>
+			<a target='_blank' href='https://github.com/bombHan/pms-react-demo/blob/main/src/pages/public/developerCenter/pages/demo3/Drag/index.tsx'>源码链接</a>
+
 			<Drag
 				leftDom={
 					<div style={{ background: 'red', height: '500px' }}>
