@@ -16841,7 +16841,7 @@ qiankun@^2.2.1:
 
 qrious@^4.0.2:
   version "4.0.2"
-  resolved "http://172.16.9.19:4873/qrious/-/qrious-4.0.2.tgz#09c4d4079d2b961617f62c69cff3b9bb66a39693"
+  resolved "http://npm.pinming.org/qrious/-/qrious-4.0.2.tgz#09c4d4079d2b961617f62c69cff3b9bb66a39693"
   integrity sha512-xWPJIrK1zu5Ypn898fBp8RHkT/9ibquV2Kv24S/JY9VYEhMBMKur1gHVsOiNUh7PHP9uCgejjpZUHUIXXKoU/g==
 
 qs@6.7.0:

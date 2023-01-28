@@ -17,9 +17,9 @@
   "dependencies": {
     "@ant-design/pro-layout": "4.11.4",
     "@ant-design/pro-table": "1.2.6",
+    "@pms/gboss": "^1.0.12",
     "@pms/hooks": "^1.0.1",
     "@pms/middleground-share": "^1.1.0",
-    "@pms/gboss": "^1.0.12",
     "@pms/middleground-virtual-menu": "^1.0.6",
     "@pms/pmcommon": "2.2.39",
     "@pms/pmserver": "^1.0.9",
@@ -31,6 +31,7 @@
     "antd": "4.20.0",
     "dva": "^2.4.0",
     "moment": "^2.22.2",
+    "qrious": "^4.0.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-use": "^11.3.2",

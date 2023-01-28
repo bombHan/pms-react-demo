@@ -19,7 +19,7 @@ export const menuTreeData = {
 				},
 				{
 					"documentId": '/public/developerCenter/demo2',
-					"documentName": "动态进度条",
+					"documentName": "用class类封装二维码登录",
 					"type": 2,
 					"parentId": '1'
 				},
