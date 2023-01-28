@@ -10,7 +10,7 @@ export default () => {
 			client: 2,
 			// light: true,
 			size: 280,
-			// host: 'https://zz-test02.pinming.org',
+			host: 'https://zhuang.pinming.cn',
 			elementId: 'element',
 			onCallback: res => {
 				console.log(res);
