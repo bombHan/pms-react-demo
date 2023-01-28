@@ -1,0 +1,14 @@
+html,
+body,
+#root,
+#root-slave {
+  height: 100%;
+}
+
+#root-slave {
+  background-color: #f3f3f4;
+}
+
+body {
+  margin: 0;
+}
